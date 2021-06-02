@@ -1,14 +1,16 @@
-LineageOS
+Radiant OS
 ===========
+
+_Radiant OS is based on LineageOS and uses most LineageOS sources as a result._
 
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/Radiant OS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the Radiant OS trees, use a command like this:
 ```
-repo init -u git://github.com/LineageOS/android.git -b lineage-18.1
+repo init -u git://github.com/radiant-os/android.git -b lineage-18.1
 ```
 Then to sync up:
 ```
