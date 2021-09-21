@@ -1,4 +1,7 @@
-Radiant OS
+Ex-Radiant OS [EOL]
+===========
+
+You might be looking for [Project Radiant](https://GitHub.com/ProjectRadiant), which is a different ROM that we gave the Radiant name to.
 ===========
 
 _Radiant OS is based on LineageOS and uses most LineageOS sources as a result._
